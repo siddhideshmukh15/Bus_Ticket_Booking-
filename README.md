@@ -36,4 +36,4 @@ This project helps practice basic Python concepts such as:
 
 👩‍💻 Author
 
-Siddhi Deshmukh
+**Siddhi Deshmukh**
